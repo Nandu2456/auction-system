@@ -1,0 +1,16 @@
+{"id":null,"bidderName":"Nandini","productName":null,"bidAmount":5000.0,"timestamp":[2025,7,20,18,47,39,402434500]}
+{"id":null,"bidderName":"Nandini","productName":null,"bidAmount":5000.0,"timestamp":[2025,7,20,18,49,54,883660900]}
+{"id":null,"bidderName":"Nandini","productName":null,"bidAmount":5000.0,"timestamp":"2025-07-20T18:54:50"}
+{"id":null,"bidderName":"Nandini","productName":null,"bidAmount":5000.0,"timestamp":"2025-07-20T19:00:33"}
+{"id":null,"bidderName":"Nandini","productName":"Glass","bidAmount":10000.0,"timestamp":"2025-07-21T12:29:45.303+0530"}
+{"id":null,"bidderName":"Nandini","productName":null,"bidAmount":5000,"timestamp":"2025-07-21T21:08:24.361+0530"}
+{"id":null,"bidderName":"Nandini","productName":null,"bidAmount":1900,"timestamp":"2025-07-21T21:09:14.331+0530"}
+{"id":null,"bidderName":"Nandu","productName":null,"bidAmount":12000,"timestamp":"2025-07-21T21:09:47.001+0530"}
+{"id":null,"bidderName":"Nandini J","productName":null,"bidAmount":1000,"timestamp":"2025-07-30T18:58:51.925+0530"}
+{"id":null,"bidderName":"Nandu","productName":null,"bidAmount":4000,"timestamp":"2025-07-30T19:12:40.377+0530"}
+{"id":null,"bidderName":"Nandini","productName":"glass","bidAmount":1000,"timestamp":"2025-07-30T19:26:26.552+0530"}
+{"id":null,"bidderName":"Nandini","productName":"glass","bidAmount":2000,"timestamp":"2025-07-30T19:31:52.715+0530"}
+{"id":null,"bidderName":"Hari","productName":"glass","bidAmount":4000,"timestamp":"2025-07-30T19:32:08.950+0530"}
+{"id":null,"bidderName":"Nandini","productName":"glass","bidAmount":19000,"timestamp":"2025-07-30T19:50:55.644+0530"}
+{"id":null,"bidderName":"Guru","productName":"glass","bidAmount":18000,"timestamp":"2025-07-30T19:51:08.499+0530"}
+{"id":null,"bidderName":"Jiju","productName":"glass","bidAmount":150000,"timestamp":"2025-07-30T19:51:20.261+0530"}
